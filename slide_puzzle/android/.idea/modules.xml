@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-376327135/android.audio_session.iml" filepath="$PROJECT_DIR$/.idea/modules/-376327135/android.audio_session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1426056069/android.just_audio.iml" filepath="$PROJECT_DIR$/.idea/modules/-1426056069/android.just_audio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/869514380/android.path_provider_android.iml" filepath="$PROJECT_DIR$/.idea/modules/869514380/android.path_provider_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1760139079/android.url_launcher_android.iml" filepath="$PROJECT_DIR$/.idea/modules/1760139079/android.url_launcher_android.iml" />
+    </modules>
+  </component>
+</project>

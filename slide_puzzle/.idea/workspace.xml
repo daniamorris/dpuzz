@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c05445a9-0149-422b-9a52-c9d0e7c51ac9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/blue/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/blue/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/blue/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/blue/10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/blue/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/blue/11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/blue/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/blue/12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/blue/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/blue/13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/blue/14.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/blue/14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/blue/15.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/blue/15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/blue/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/blue/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/blue/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/blue/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/blue/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/blue/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/blue/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/blue/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/blue/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/blue/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/blue/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/blue/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/blue/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/blue/8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/blue/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/blue/9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/gallery/blue.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/gallery/blue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/gallery/green.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/gallery/green.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/gallery/yellow.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/gallery/yellow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/green/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/green/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/green/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/green/10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/green/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/green/11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/green/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/green/12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/green/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/green/13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/green/14.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/green/14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/green/15.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/green/15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/green/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/green/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/green/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/green/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/green/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/green/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/green/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/green/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/green/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/green/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/green/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/green/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/green/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/green/8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/green/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/green/9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/yellow/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/yellow/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/yellow/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/yellow/10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/yellow/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/yellow/11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/yellow/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/yellow/12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/yellow/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/yellow/13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/yellow/14.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/yellow/14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/yellow/15.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/yellow/15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/yellow/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/yellow/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/yellow/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/yellow/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/yellow/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/yellow/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/yellow/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/yellow/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/yellow/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/yellow/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/yellow/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/yellow/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/yellow/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/yellow/8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/dashatar/yellow/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dashatar/yellow/9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/simple_dash_large.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/simple_dash_large.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/simple_dash_medium.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/simple_dash_medium.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/simple_dash_small.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/simple_dash_small.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/colors/colors.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/colors/colors.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/dashatar/themes/blue_dashatar_theme.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/dashatar/themes/blue_dashatar_theme.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/dashatar/themes/dashatar_theme.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/dashatar/themes/dashatar_theme.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/dashatar/themes/green_dashatar_theme.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/dashatar/themes/green_dashatar_theme.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/dashatar/themes/yellow_dashatar_theme.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/dashatar/themes/yellow_dashatar_theme.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/simple/simple_puzzle_layout_delegate.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/simple/simple_puzzle_layout_delegate.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/simple/simple_theme.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/simple/simple_theme.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/theme/themes/puzzle_theme.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/theme/themes/puzzle_theme.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/theme/widgets/app_flutter_logo.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/theme/widgets/app_flutter_logo.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/typography/text_styles.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/typography/text_styles.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/README.md" root0="SKIP_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lib/colors/colors2.dart" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="25XPHaQomGzykADel5bTJiB4eEn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Dart" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c05445a9-0149-422b-9a52-c9d0e7c51ac9" name="Default Changelist" comment="" />
+      <created>1645670370811</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645670370811</updated>
+    </task>
+    <servers />
+  </component>
+</project>
