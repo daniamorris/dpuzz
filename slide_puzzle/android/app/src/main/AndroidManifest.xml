@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.verygoodcore">
+    package="com.daniamorris.dpuzz">
    <application
-        android:label="Slide Puzzle"
+        android:label="D-Puzz"
         android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
